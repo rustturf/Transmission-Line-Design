@@ -75,7 +75,8 @@ The GUI window will open. Fill in the input fields and click **▶ RUN DESIGN**.
 | Output File | Path for the text report | auto-set to Desktop, and you can change it manually too|
 
 > **Manual GMD Dialog:** If the selected configuration has `nc > 2` or `nb > 1 or nc=1 and nb>=2` (where auto-calculation isn't implemented), a popup will appear asking you to manually enter GMD, GMRl, and GMRc in metres. I haven't had the time to do it for different circuit configurations. Hence, if the spacing of design of conductor spacing is not as in the formula, you may have different results and mismatch in calculations. Although, that case has not been included. The structure is as shown 
-For single circuit 
+For single circuit
+> 
                O
 > 
             O
